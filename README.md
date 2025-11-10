@@ -49,8 +49,7 @@
 | 알고리즘 실행 (콘솔) | 최종 해답 시각화 (플롯) |
 | :---: | :---: |
 | `Genetic_2.py` 실행 결과 | `plt.py` 실행 결과 (해답: `[7, 3, 8, 2, 5, 1, 6, 4]`) |
-| ![8queens](https://github.com/user-attachments/assets/6567d9bb-8045-4f15-8908-a4c60eb258af) | |  <img width="640" height="480" alt="Figure_8queens" src="https://github.com/user-attachments/assets/71f09ff0-488e-4f6f-987e-49f48fafbe44" />
- |
+| ![8queens](https://github.com/user-attachments/assets/6567d9bb-8045-4f15-8908-a4c60eb258af) | | <img width="640" height="480" alt="Figure_8queens" src="https://github.com/user-attachments/assets/a72aaf14-20bd-4545-9f36-90181fbc3766" /> |
 
 ---
 
